@@ -2,6 +2,7 @@
 # EcoCity DApp
 Welcome to our DApp EcoCity built on web 3.0, a decentralized game that interacts with the blockchain. Our DApp has been created for the Blockchain and Distributed Ledger Technologies course (A.Y. 2022-2023).
 
+<img src="src/assets/logo.png" align="left" width="200px" height="200px"/>
 
 ## Introduction
 Our DApp is a management game where players own and manage a sustainable community. The main objective of the game is to encourage players to make their community sustainable by investing "ECOs" in 15 eco-sustainable resources during each daily round. Players must face all 7 environmental challenges, and unexpected natural events of varying severity can occur, testing the community's resilience. To succeed, players must make the best decisions to overcome these challenges.
